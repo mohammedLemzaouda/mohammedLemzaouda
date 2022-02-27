@@ -2,9 +2,11 @@
   <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
 </p>
 
+## <i>About</i>:
+Computer science graduate student with a strong background in mathematics and a strong interest in problem solving.
+Passionate about artificial intelligence and data science.
+Have a variety of programming experiences.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### <i>About</i>
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** Python, C++, Scala, JS💻
